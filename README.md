@@ -21,7 +21,7 @@ This is a simple authentication API built with Node.js, Express, MongoDB, and JW
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/auth-api.git
+git clone https://github.com/rameshvellani/auth-api.git
 cd auth-api
 
 
